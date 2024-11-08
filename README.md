@@ -14,9 +14,9 @@ I love the entire process of developing creative websites, and Apis I love the c
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/arun-m-47884223a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/a_r_u_n___m___/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://arunmeti.netlify.app"><img align="left" src="https://raw.githubusercontent.com/arunameti/arunameti/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+<a href="https://www.linkedin.com/in/arun-m-47884223a/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="  LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/a_r_u_n___m___/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="  Instagram" width="21px"/></a>
+<a href="https://arunmeti.netlify.app"><img align="left" src="" alt="Web | Medium" width="21px"/></a>
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
